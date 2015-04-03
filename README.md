@@ -1,3 +1,5 @@
 == README
 
-# BDD Application's example using Cucumber, shoulda-matchers and Rspec.
+## BDD Application's example
+
+simple application uusing Cucumber, shoulda-matchers and Rspec.
